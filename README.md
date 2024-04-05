@@ -1,5 +1,5 @@
 # SubDomainEnamuration
-This is a command-line utility for retrieving WHOIS information and discovering subdomains associated with a specified domain using brute-forcing methode.
+This is a command-line utility for retrieving WHOIS information and discovering subdomains associated with a specified domain using brute-force methode.
 
 
 

@@ -1,5 +1,5 @@
 # SubDomainEnamuration
-This is a command-line utility for retrieving WHOIS information and discovering subdomains associated with a specified domain using brute-forcing methode.
+This is a command-line utility for retrieving WHOIS information and discovering subdomains associated with a specified domain using brute-force methode.
 
 
 
@@ -27,3 +27,6 @@ python subdomain_enamuration.py <target domain name>
 python domain_information_tool.py example.com
 
 ```
+
+## Output console
+![ScanningOutput](Capture.PNG)

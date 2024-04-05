@@ -1,3 +1,4 @@
+these are googles discovered subdomains
 http://www.google.com
 http://mail.google.com
 http://m.google.com

@@ -27,3 +27,6 @@ python subdomain_enamuration.py <target domain name>
 python domain_information_tool.py example.com
 
 ```
+
+##Output console
+![ScanningOutput](Capture.PNG)

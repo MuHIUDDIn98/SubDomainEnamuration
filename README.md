@@ -28,5 +28,5 @@ python domain_information_tool.py example.com
 
 ```
 
-##Output console
+## Output console
 ![ScanningOutput](Capture.PNG)

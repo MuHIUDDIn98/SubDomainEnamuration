@@ -17,6 +17,16 @@ git clone https://github.com/your_username/domain-information-tool.git
 
 ```
 
+## install_venv
+```console
+python -m venv SubdomainEnamurationVenv
+```
+
+### installing whois and requests 
+
+-https://pypi.org/project/requests/
+-https://pypi.org/project/python-whois/
+
 
 ## usage
 ```console

@@ -23,7 +23,7 @@ git clone https://github.com/your_username/domain-information-tool.git
 python -m venv SubdomainEnamurationVenv
 ```
 
-### installing whois , requests and dnspython in python venv
+### installing whois , requests and dnspython in python venv instruction from bellows link
 
 - https://pypi.org/project/requests/
 - https://pypi.org/project/python-whois/

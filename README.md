@@ -4,9 +4,10 @@ This is a command-line utility for retrieving WHOIS information and discovering 
 
 
 ## Features
--WHOIS Information Retrieval: Retrieve registrar, WHOIS server, domain creation date, and expiration date for the specified domain.
--Subdomain Discovery: Scan for subdomains by attempting to access potential URLs constructed from a list of subdomains.
--Save Results: Save discovered subdomains to a text file for further analysis.
+
+- WHOIS Information Retrieval: Retrieve registrar, WHOIS server, domain creation date, and expiration date for the specified domain.
+- Subdomain Discovery: Scan for subdomains by attempting to access potential URLs constructed from a list of subdomains.
+- Save Results: Save discovered subdomains to a text file for further analysis.
 
 
 

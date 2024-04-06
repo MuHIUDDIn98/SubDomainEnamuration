@@ -24,8 +24,8 @@ python -m venv SubdomainEnamurationVenv
 
 ### installing whois and requests 
 
--https://pypi.org/project/requests/
--https://pypi.org/project/python-whois/
+- https://pypi.org/project/requests/
+- https://pypi.org/project/python-whois/
 
 
 ## usage

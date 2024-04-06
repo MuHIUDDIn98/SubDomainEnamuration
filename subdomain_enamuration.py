@@ -2,6 +2,7 @@ import argparse
 from domain_validator import *
 from subDomainFinder import *
 from who_is import *
+from dns_enamuration import *
 
 
 if __name__ == "__main__":
@@ -15,6 +16,7 @@ if __name__ == "__main__":
     if is_registered(domain_name):
         #Print WHOIS information if the domain is registered
         get_whois_info(domain_name)
+        recorded_data(domain_name)
         # Find and print subdomains
         subdomains = find_subdomains(domain_name)
         print(subdomains)

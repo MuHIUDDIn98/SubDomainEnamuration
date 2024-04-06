@@ -27,6 +27,7 @@ python -m venv SubdomainEnamurationVenv
 
 - https://pypi.org/project/requests/
 - https://pypi.org/project/python-whois/
+- https://pypi.org/project/dnspython/
 
 
 ## usage

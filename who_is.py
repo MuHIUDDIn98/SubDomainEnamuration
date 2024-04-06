@@ -1,3 +1,6 @@
+
+
+import whois
 from domain_validator import *
 def get_whois_info(domain_name):
     if is_registered(domain_name):

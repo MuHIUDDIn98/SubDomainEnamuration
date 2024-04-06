@@ -41,4 +41,5 @@ python domain_information_tool.py example.com
 ```
 
 ## Output console
+![ScanningOutput](SubdomainEnamuration.PNG)
 ![ScanningOutput](Capture.PNG)
